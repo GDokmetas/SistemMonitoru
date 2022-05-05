@@ -18,7 +18,7 @@ lcd.print("Gokhan DOKMETAS");
 lcd.setCursor(0, 2);
 lcd.print("Elektronik Teknoloj.");
 lcd.setCursor(0, 3);
-lcd.print("203702001");
+lcd.print("0000000");
 delay(2000);
 lcd.home();
 lcd.clear();
